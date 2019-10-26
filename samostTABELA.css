@@ -1,0 +1,17 @@
+body{background-color: yellow;
+
+  margin-left: 0
+
+}
+#button{
+background-color: blue;
+color: white;
+}
+input{
+  border-radius: 3px;
+  border: solid 1px black
+}
+textarea{
+  border-radius: 3px;
+  border: solid 1px black;
+}

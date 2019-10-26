@@ -1,0 +1,17 @@
+body{background-color: yellow;
+  color: grey
+  margin-left: 0
+
+}
+#button{
+background-color: blue;
+color: white;
+}
+input{
+  border-radius: 3px;
+  border: solid 1px grey
+}
+textarea{
+  border-radius: 3px;
+  border: solid 1px grey
+}
